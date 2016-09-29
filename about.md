@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am in graduate school studying Computer Science with a focus in Machine Learning.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to watch football and am an avid follower of Chelsea FC. I like to travel the world as it is fun and broadens my perspective. I enjoy psychology and hope to uncover the secrets of the human mind. I also like to dream and get philosophical about life. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vikasmohandoss@gmail.com](mailto:email@domain.com)
