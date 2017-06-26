@@ -37,11 +37,11 @@ Personal -
 LinkedLists are so bad! Never use them if you care about performance.
 They mess up cache access. Simple Stat - 3B cycles per second on one of my processors(Wow!), 50% of that time is on I/O (Damn!). Efficient Algorithms -> Better data structures -> Better caching -> Faster data access from memory -> Happy Life, unless of course you can afford clusters in which case, please ignore this. Debugging performance bottlenecks is hard. Machine Learning is hard. 
 
-Took part in the T-mobil Big Data hackathon (March 2017) and made an application that automatically tags photos and uploads to Instagram based on object detection and location features. I love solving laziness. Now, only if I can get myself to use social media and upload these damn pictures so they can get tagged. - https://www.youtube.com/watch?v=qEaGuX18sz4&t=27s
+Took part in the T-mobil Big Data hackathon (March 2017) and made an application that automatically tags photos and uploads to Instagram based on object detection and location features. I love solving laziness. Now, only if I can get myself to use social media and upload these damn pictures so they can get tagged. - https://www.youtube.com/watch?v=qEaGuX18sz4&t=27s (First Place)
 
-Took part in AI++ Weekend (April 2017) and made an anomaly detection system that checks for trends in mixture of data sources and reports if the end user has anything to be worried/excited about. This project was harder than I first thought. Someone, please donate some cloud credits.
+Took part in AI++ Weekend (April 2017) and made an anomaly detection system that checks for trends in mixture of data sources and reports if the end user has anything to be worried/excited about. This project was harder than I first thought. Someone, please donate some cloud credits. (Not Top 3)
 
-Took part in Global AI Hackathon (June 2017) and made a music player that receives live video feed from camera input and detects the surrounding environment to choose the right song to play from spotify. It then gauges audience engagement and perception and changes songs accordingly. I really need to address the infrastructure to process frames as we had some performance lag. Also, excited to start training the model to see what it does! - https://www.youtube.com/watch?v=-kjTLG0EA5E&feature=youtu.be
+Took part in AI Hackathon Seattle (June 2017) and made a music player that receives live video feed from camera input and detects the surrounding environment to choose the right song to play from spotify. It then gauges audience engagement and perception and changes songs accordingly. I really need to address the infrastructure to process frames as we had some performance lag. Also, excited to start training the model to see what it does! - https://www.youtube.com/watch?v=-kjTLG0EA5E&feature=youtu.be (Community Event)
 
 Suggestions to improve on features will be nice :). I will open source the code, once I clean up. 
 
