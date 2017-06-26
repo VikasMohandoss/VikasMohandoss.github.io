@@ -12,7 +12,7 @@ NewsLetter
 
 AI -
 
-1. Yaov Goldberg and Yann LeCunn's popcorn consuming take on ArXiv and the publicity(false?) of neural nets - https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7, https://www.facebook.com/yann.lecun/posts/10154498539442143, https://medium.com/@yoav.goldberg/a-response-to-yann-lecuns-response-245125295c02
+1. Yaov Goldberg and Yann LeCunn's popcorn consuming take on ArXiv and the publicity(too much?) of neural nets - https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7, https://www.facebook.com/yann.lecun/posts/10154498539442143, https://medium.com/@yoav.goldberg/a-response-to-yann-lecuns-response-245125295c02
 2. SELU Activation Function that helps self normalize neural nets - https://arxiv.org/pdf/1706.02515.pdf. Fun Note : One of the authors - Hochreiter published a paper on LSTM in 1997. (I really do not know my target audience, so forgive me)
 3. All developers calling, Google's in-house object detection system is now open sourced. Yes! until of course free trial runs out... I miss the old days when I could build local models and feel smug about accuracy. (And, I didn’t have to pay!)
 4. Neural Network inception by Christopher Google Nolan
