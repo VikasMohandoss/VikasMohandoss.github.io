@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am in graduate school studying Computer Science with a focus in Machine Learning.
+I am an Engineer at Microsoft. I studied CS at NITK Surathkal (https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Karnataka) and then attended Columbia University (https://en.wikipedia.org/wiki/Columbia_University) to learn Machine Learning to make machines learn. (Say that fast and on repeat).
 
 ### More Information
 
-I hope to help humans achieve more with technology. I enjoy psychology and hope to uncover the secrets of the human mind. I also like to dream and get philosophical about life. I love football and am an avid follower of Chelsea FC. I want to travel the world as it is fun and broadens my perspective.  I do not like boredom and my passion is to not get bored and be productive while I'm at it. In this blog, I write about whatever I feel like getting out of my head and if I feel that the content would be relevant to at least x number of people, where x is 1+number of people I know. 
-
+Right now, I hope to help make useful software more inteligent and fast but not intrusive. Eventually, I hope to uncover the secrets of the human mind and enhance its capabilites. I have loved Chelsea FC for 12 years for reasons unkown (Hence, my long term goal). I really really want to win my Fantasy Premier League Mini-League every season. In this blog, you may encounter sudden inactivity and typos and I apologize beforehand. I will push content if I feel that it would be relevant to at least x number of people, where x is > 1
 ### Contact me
 
 [vikasmohandoss@gmail.com](mailto:email@domain.com)
