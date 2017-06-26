@@ -45,7 +45,7 @@ Took part in Global AI Hackathon (June 2017) and made a music player that receiv
 
 Suggestions to improve on features will be nice :). I will open source the code, once I clean up. 
 
-Visited NYC, Miami, Orlando, Los Angeles and San Jose in the space of 3 weeks courtesy of graduation ceremony at Columbia University (I am apparently a Master now with my degree), a guide to the United States for my parents and other family reasons.
+Visited NYC, Miami, Orlando, Los Angeles and San Jose in the space of 3 weeks courtesy of graduation ceremony at Columbia University (I am apparently a Master now with my degree), a tour to the United States with my parents and other family reasons.
 
 Random thought of the day –
 
