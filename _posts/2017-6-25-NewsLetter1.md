@@ -4,9 +4,9 @@ comments: true
 title: NewsLetter_1
 ---
 
-I feel sorry for wasting resources on Github. Hence, I'm starting a newsletter about topics that I found interesting in this time frame and random spiel that I'd like to share. It will help serve as my dashboard, that is accessible on all devices and hopefully is useful to at least 1 more person.
-
 June-July 2017
+
+I feel sorry for wasting resources on Github. Hence, I'm starting a newsletter about topics that I found interesting in this time frame and random spiel that I'd like to share. It will help serve as my dashboard, that is accessible on all devices and hopefully is useful to at least 1 more person.
 
 NewsLetter 
 
