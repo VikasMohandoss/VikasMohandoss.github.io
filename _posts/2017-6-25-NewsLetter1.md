@@ -43,9 +43,9 @@ Took part in AI++ Weekend (April 2017) and made an anomaly detection system that
 
 Took part in AI Hackathon Seattle (June 2017) and made a music player that receives live video feed from camera input and detects the surrounding environment to choose the right song to play from spotify. It then gauges audience engagement and perception and changes songs accordingly. I really need to address the infrastructure to process frames as we had some performance lag. Also, excited to start training the model to see what it does! - https://www.youtube.com/watch?v=-kjTLG0EA5E&feature=youtu.be (Community Event)
 
-Suggestions to improve on features will be nice :). I will open source the code, once I clean up. 
+Suggestions to improve on features will be nice :)
 
-Visited NYC, Miami, Orlando, Los Angeles and San Jose in the space of 3 weeks courtesy of graduation ceremony at Columbia University (I am apparently a Master now with my degree), a tour to the United States with my parents and other family reasons.
+Visited NYC, Miami, Orlando, Los Angeles and San Jose in the space of 3 weeks courtesy of graduation ceremony at Columbia University (I am apparently a Master now with my degree), a tour of the United States with my parents and other family reasons.
 
 Random thought of the day –
 
