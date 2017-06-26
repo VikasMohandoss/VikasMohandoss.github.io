@@ -25,8 +25,8 @@ Systems -
 1. Chandler Carruth is a funny guy. Loved his video on Algorithms for efficiency and data structures for performance - https://www.youtube.com/watch?v=fHNmRkzxHWs&t=3586s, compiler 
 2. Another Chandler Carruth video on compiler optimization - https://www.youtube.com/watch?v=FnGCDLhaxKU
 3. A look into Google's TPU - https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu
-4. Mike Acton on data oriented design. Haven’t seen it yet but have heard excellent reviews - https://www.youtube.com/watch?v=rX0ItVEVjHc
-5. Also currently reading a book - Parallel Computing for data science by Norman Matloff. Highly recommend it thus far. (Will touch upon this again on completion).
+4. Mike Acton on data oriented design. Gives a very different thought process to software design - https://www.youtube.com/watch?v=rX0ItVEVjHc
+5. Currently reading a book - Parallel Computing for data science by Norman Matloff. Highly recommend it thus far. (Will touch upon this again on completion).
 
 In a land far far away -
 
